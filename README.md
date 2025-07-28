@@ -1,6 +1,6 @@
 # HR-Analytics-Employee-Prediction
 This project uses machine learning to predict employee promotions based on various performance and demographic factors. It aims to help HR departments make data-driven decisions about which employees are most likely to be ready for a promotion.
-Project Overview
+$Project Overview
 The goal of this project is to build a predictive model that can identify employees who are strong candidates for promotion.[1][2] By analyzing historical data on employee attributes and promotion outcomes, we can uncover patterns and create a model that assists in making fair and efficient promotion decisions.[1][3] This data-driven approach helps to streamline the promotion process and reduce delays in transitioning employees to new roles.[2][4]
 Dataset
 The dataset used in this project contains information about employees, including:
